@@ -217,7 +217,7 @@ p{margin-bottom:1rem}
 .ws-iconlist li{display:flex;align-items:flex-start;gap:14px}
 .ws-ico{flex:none;width:26px;height:26px;border-radius:50%;background:var(--blue);color:#fff;display:flex;align-items:center;justify-content:center;font-size:.8rem;font-weight:800;margin-top:2px}
 .ws-ico:before{content:"\2714"}
-.ws-aside{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:24px;position:sticky;top:130px;box-shadow:var(--shadow-lg)}
+.ws-aside{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:24px;position:sticky;top:24px;align-self:start;box-shadow:var(--shadow-lg)}
 .ws-toprib{background:var(--sun);color:var(--ink);font-weight:700;font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;padding:5px 12px;border-radius:100px;display:inline-block;margin-bottom:12px}
 .ws-aside-h{font-size:1.15rem;margin-bottom:8px}
 .ws-aside-list{list-style:none;margin:10px 0 14px;border-top:1px solid var(--line);padding-top:10px}
@@ -303,3 +303,23 @@ p{margin-bottom:1rem}
 
 .ws-lm-area{font-size:.8rem!important;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--blue)!important;margin-bottom:8px!important}
 .ws-lm-outro{margin-top:26px;max-width:760px}
+
+/* v11 hero backgrounds */
+.ws-pagehead.has-hero,.ws-hero.has-hero{position:relative;isolation:isolate;overflow:hidden;background:var(--blue-d)}
+.hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+.ws-pagehead.has-hero:before,.ws-hero.has-hero:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(100deg,rgba(6,28,62,.92) 0%,rgba(6,28,62,.8) 48%,rgba(6,28,62,.55) 100%)}
+.ws-hero.has-hero:after{display:none}
+.ws-pagehead.has-hero h1,.ws-pagehead.has-hero p,.ws-hero.has-hero h1,.ws-hero.has-hero .ws-hero-lead{color:#fff}
+.ws-pagehead.has-hero{padding:clamp(3rem,6vw,5rem) 0}
+/* v11 paragraph rhythm */
+main p{font-size:1rem;line-height:1.65}
+main p+p{margin-top:14px}
+main h1+p,main h2+p,main h3+p{margin-top:14px}
+.ws-block h2,.ws-block h3{margin-bottom:14px}
+/* v11 sidecard */
+.ws-aside-copy{font-size:.95rem;margin:0 0 14px}
+.ws-aside-btn{display:block;text-align:center;margin-bottom:6px}
+.ws-aside-link{display:block;font-weight:600;border-top:1px solid var(--line);padding-top:12px;margin-top:4px}
+.ws-sidecard .ws-toprib{display:inline-block;margin-bottom:10px}
+.localnote{border-left:4px solid var(--blue);background:var(--sky);border-radius:0 14px 14px 0;padding:20px 22px;margin:1.75rem 0}
+.localnote h2{font-size:1.2rem}

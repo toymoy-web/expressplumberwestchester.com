@@ -1,1 +1,25 @@
-# Intentionally empty. Cloudflare Pages resolves slug/index.html natively.
+# Renamed blog posts (city added to slug)
+/blog/what-to-do-when-your-sump-pump-fails-during-a-storm/ /blog/sump-pump-fails-during-storm-west-chester-pa/ 301
+/blog/what-to-do-when-your-sump-pump-fails-during-a-storm /blog/sump-pump-fails-during-storm-west-chester-pa/ 301
+/blog/is-the-water-leak-before-or-after-your-water-meter/ /blog/water-leak-before-or-after-meter-west-chester-pa/ 301
+/blog/is-the-water-leak-before-or-after-your-water-meter /blog/water-leak-before-or-after-meter-west-chester-pa/ 301
+/blog/septic-or-sewer-how-to-tell-which-your-chester-county-home-has/ /blog/septic-or-sewer-west-chester-pa-home/ 301
+/blog/septic-or-sewer-how-to-tell-which-your-chester-county-home-has /blog/septic-or-sewer-west-chester-pa-home/ 301
+/blog/how-to-prepare-your-pipes-for-a-chester-county-cold-snap/ /blog/prepare-pipes-for-cold-snap-west-chester-pa/ 301
+/blog/how-to-prepare-your-pipes-for-a-chester-county-cold-snap /blog/prepare-pipes-for-cold-snap-west-chester-pa/ 301
+/blog/call-811-before-you-dig-sewer-and-water-line-repair-in-pennsylvania/ /blog/call-811-before-digging-west-chester-pa/ 301
+/blog/call-811-before-you-dig-sewer-and-water-line-repair-in-pennsylvania /blog/call-811-before-digging-west-chester-pa/ 301
+/blog/tankless-vs-tank-water-heater-for-a-chester-county-home/ /blog/tankless-vs-tank-water-heater-west-chester-pa/ 301
+/blog/tankless-vs-tank-water-heater-for-a-chester-county-home /blog/tankless-vs-tank-water-heater-west-chester-pa/ 301
+/blog/why-your-drain-keeps-clogging-after-snaking/ /blog/drain-keeps-clogging-after-snaking-west-chester-pa/ 301
+/blog/why-your-drain-keeps-clogging-after-snaking /blog/drain-keeps-clogging-after-snaking-west-chester-pa/ 301
+/blog/sewer-camera-inspection-before-buying-a-house-in-chester-county/ /blog/sewer-scope-before-buying-house-west-chester-pa/ 301
+/blog/sewer-camera-inspection-before-buying-a-house-in-chester-county /blog/sewer-scope-before-buying-house-west-chester-pa/ 301
+/blog/old-pipes-galvanized-polybutylene-and-when-to-repipe/ /blog/old-pipes-galvanized-polybutylene-repipe-west-chester-pa/ 301
+/blog/old-pipes-galvanized-polybutylene-and-when-to-repipe /blog/old-pipes-galvanized-polybutylene-repipe-west-chester-pa/ 301
+/blog/restaurant-and-shop-plumbing-grease-traps-and-floor-drains/ /blog/restaurant-shop-plumbing-grease-traps-west-chester-pa/ 301
+/blog/restaurant-and-shop-plumbing-grease-traps-and-floor-drains /blog/restaurant-shop-plumbing-grease-traps-west-chester-pa/ 301
+/blog/after-a-flood-what-to-do-first-in-your-basement/ /blog/basement-flood-first-steps-west-chester-pa/ 301
+/blog/after-a-flood-what-to-do-first-in-your-basement /blog/basement-flood-first-steps-west-chester-pa/ 301
+/blog/running-toilet-how-much-water-it-wastes-and-how-to-fix-it/ /blog/running-toilet-water-waste-west-chester-pa/ 301
+/blog/running-toilet-how-much-water-it-wastes-and-how-to-fix-it /blog/running-toilet-water-waste-west-chester-pa/ 301
