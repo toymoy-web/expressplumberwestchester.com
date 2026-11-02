@@ -323,3 +323,7 @@ main h1+p,main h2+p,main h3+p{margin-top:14px}
 .ws-sidecard .ws-toprib{display:inline-block;margin-bottom:10px}
 .localnote{border-left:4px solid var(--blue);background:var(--sky);border-radius:0 14px 14px 0;padding:20px 22px;margin:1.75rem 0}
 .localnote h2{font-size:1.2rem}
+.ws-social{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;align-items:center}
+.ws-social-h{color:#fff;font-weight:600;width:100%;font-size:.9rem}
+.ws-footer .ws-social a{display:inline-block;margin:0;padding:6px 12px;border:1px solid #2A3E5A;border-radius:999px;font-size:.85rem}
+.ws-footer .ws-social a:hover,.ws-footer .ws-social a:focus-visible{border-color:var(--sun)}
